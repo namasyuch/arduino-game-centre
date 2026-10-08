@@ -74,3 +74,7 @@ Built as a small Arduino gaming project using an LED matrix and joystick.
 ![Mini Game Centre Circuit Diagram](WIN_20260930_17_57_32_Pro.jpg)
 
 The code is in `game_centre.ino`.
+
+## Circuit Diagram 
+
+![Mini Game Centre](WIN_20261008_21_45_23_Pro.jpg)
