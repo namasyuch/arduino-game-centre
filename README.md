@@ -69,5 +69,8 @@ Each game has its own controls and scoring system.
 
 Built as a small Arduino gaming project using an LED matrix and joystick.
 
+## Build model 
+
+![Mini Game Centre Circuit Diagram](WIN_20260930_17_57_32_Pro.jpg)
+
 The code is in `game_centre.ino`.
-The diagram '<img width="1408" height="768" alt="Gemini_Generated_Image_9yczh69yczh69ycz" src="https://github.com/user-attachments/assets/59e8390d-e9a1-4e3b-a93c-9947ee2ea023" />'
