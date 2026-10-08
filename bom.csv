@@ -1,0 +1,7 @@
+Part,Quantity,Specification,Purpose
+Arduino Nano,1,ATmega328P,Main microcontroller for running the games
+32x8 LED Matrix,1,MAX7219,Displays the game graphics and text
+Joystick Module,1,2-axis joystick with push button,Controls movement and game input
+Breadboard,1,Standard mini breadboard,Holds the components and allows easy wiring
+Jumper Wires,1 set,Male-to-male/Male-to-female,Connects the Nano, matrix and joystick
+USB Cable,1,USB for Arduino Nano,Powers the project and uploads the code
