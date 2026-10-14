@@ -49,7 +49,7 @@ A mini game centre built with an Arduino Nano, a 32×8 MAX7219 LED matrix, and a
 
 ## Circuit Diagram
 
-![Arduino Game Centre Circuit Diagram](circuit_image.png)
+![Arduino Game Centre Circuit Diagram](circuit_image%20%281%29.png))
 
 [Open the editable circuit in Cirkit Designer](https://app.cirkitdesigner.com/project/b4dd65cf-c525-4572-8212-0d7c4e4b9e2c)
 
