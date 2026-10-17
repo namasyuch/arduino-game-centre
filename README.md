@@ -17,6 +17,7 @@ A mini game centre built with an Arduino Nano, a 32×8 MAX7219 LED matrix, and a
 - Game-over screen
 - Multiple mini-games on one display
 - Startup messages
+- Compact enclosure and CAD assembly design
 
 ## Components
 
@@ -66,7 +67,6 @@ A mini game centre built with an Arduino Nano, a 32×8 MAX7219 LED matrix, and a
 
 ![Arduino Game Centre — Build Photo 1](WIN_20260930_17_57_32_Pro.jpg)
 
-
 ## Code
 
 The Arduino sketch is available in [`game_centre.ino`](game_centre.ino).
@@ -79,8 +79,19 @@ The Arduino sketch is available in [`game_centre.ino`](game_centre.ino).
 
 ## CAD Model
 
-The `cad` folder contains the project's current CAD files.
+The enclosure and simplified component models are being designed in Onshape to visualize the layout of the Arduino Game Centre.
+
+The planned assembly contains:
+
+- `Game_Centre_Enclosure` — main enclosure with openings for the display and joystick.
+- `Arduino_Nano` — simplified board model positioned inside the enclosure.
+- `LED_Matrix_32x8` — display module positioned at the front opening.
+- `Joystick_Module` — joystick module positioned at its opening.
+
+The CAD model uses simplified component shapes to demonstrate the proposed physical arrangement.
+
+<!-- Add your CAD screenshot here after uploading it to the cad folder. -->
 
 ## Project Summary
 
-Arduino Game Centre brings several mini-games together in one compact project using an LED matrix and joystick.
+Arduino Game Centre brings several mini-games together in one compact project using an LED matrix and joystick. The project combines embedded programming, joystick input, game logic, circuit design, and enclosure modelling.
