@@ -79,9 +79,7 @@ The Arduino sketch is available in [`game_centre.ino`](game_centre.ino).
 
 ## CAD Model
 
-The Arduino Game Centre enclosure and component assembly were designed in Onshape.
-
-![Arduino Game Centre CAD Model](cad/game-centre-assembly.png)
+![Arduino Game Centre CAD Assembly](Screenshot%202026-10-17%20184606.png)
 
 The planned assembly contains:
 
